@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-
+//Sampath Kumar Rao
 public class sampath {
 	public void Digits(int n,int m,int o){
 		int largestn = 0;
