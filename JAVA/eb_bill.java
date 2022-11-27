@@ -21,6 +21,7 @@ class ElectBill
 		System.out.println("Enter the types of EB Connection(domestic or commercial)");
 		EBConn = sc.next();
 	}
+	#Sampath Kumar Rao
 	double calculate_bill()
 	{
 		int choice;
