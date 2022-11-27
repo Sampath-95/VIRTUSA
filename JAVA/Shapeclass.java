@@ -1,6 +1,7 @@
 import java.util.*; 
 abstract class shape
 { 
+ #Sampath Kumar Rao
  int a,b; 
  abstract public void printarea(); 
 } 
