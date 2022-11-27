@@ -6,6 +6,7 @@ import currencyconversion.*;
 //import timeconversion.*; 
 class converter
 { 
+ #Sampath Kumar Rao
 public static void main(String args[]) 
 { 
 Scanner s=new Scanner(System.in); 
