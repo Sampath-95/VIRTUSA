@@ -1,6 +1,7 @@
 import java.io.*; 
 interface Stackoperation
 { 
+ //Sampath Kumar Rao
  public void push(int i); 
  public void pop(); 
 } 
